@@ -25,6 +25,10 @@ jobs:
       # uwu
       - name: uwu
         run: npm install node-fetch
+      
+      # o3o
+      - name: o3o
+        run: npm install fs
           
       # owo
       - name: owo
