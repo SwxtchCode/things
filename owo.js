@@ -1,3 +1,5 @@
+// hello stupid script kiddies: i have already deleted the webhook. you are sadly too late to spam my testing server with "@everyone" a thousand times
+
 /*
 const fetch = require('node-fetch');
 const fs = require('fs');
