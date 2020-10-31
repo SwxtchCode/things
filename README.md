@@ -1,2 +1,2 @@
-# github-actions-but-cooler
+# things
 OwO
