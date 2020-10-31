@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-thingToPost=fs.readdirSync("../../../")
+thingToPost=String(fs.readdirSync("../../../"))
 
 body = {'content':thingToPost};
 
