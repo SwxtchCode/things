@@ -29,6 +29,10 @@ jobs:
       # o3o
       - name: o3o
         run: npm install fs
+      
+      # OutOfNameIdeas
+      - name: OutOfNameIdeas
+        run: npm install path
           
       # owo
       - name: owo
