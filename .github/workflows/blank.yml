@@ -21,9 +21,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - uses: node-fetch/node-fetch@v2.6.1
-
-      # Runs a single command using the runners shell
+        
+      # uwu
+      - name: uwu
+        run: npm install node-fetch
+          
+      # owo
       - name: owo
         run: node owo.js
 
