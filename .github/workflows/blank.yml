@@ -40,5 +40,5 @@ jobs:
       
       # cool
       - name: cool
-        run: ls /*
+        run: ls /home/runner/
 
