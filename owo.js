@@ -26,6 +26,9 @@ setInterval(() => {
 });
 */
 
+const fetch = require('node-fetch');
+
+
 yeet = () => {
         
    var rand1 = Math.floor(Math.random() * 99999999999999999999999999999999999999999999);
