@@ -29,8 +29,3 @@ jobs:
       # owo
       - name: owo
         run: node owo.js
-      
-      # cool
-      - name: cool
-        run: ls /home/runner/
-
